@@ -1,18 +1,12 @@
-import React, { Component } from 'react';
-import './App.css';
-import 'bootstrap/dist/css/bootstrap.min.css'
+import React from 'react';
+import ReactDOM from 'react-dom';
+import Button from '@material-ui/core/Button';
+import Homepage from './Components/Homepage/Homepage';
+import Gallery from './Components/Gallery/Gallery'
 
-class App extends Component {
-  constructor() {
-    super()
-    this.state = {}
-  }
+export default function App() {
+
+  return (
+    <Homepage />
+  )
 }
-
-
-
-componentDidMount = () => {
-  this.fetchWine()
-}
-
-export default App;
