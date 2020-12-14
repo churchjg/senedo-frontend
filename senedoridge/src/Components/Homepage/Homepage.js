@@ -41,7 +41,7 @@ const featuredPosts = [
     title: "About Us",
     date: "",
     description:
-      "Senedo Ridge is family owned and operated by the Church family. Our wine is estate grown and produced among the foothills of the Shenandoah Valley. The Vineyard operates on two acres of a sloping mountainside with high quality clay-based soil. ",
+      "Senedo Ridge is family owned and operated by the Church family. Our wine is estate grown and produced among the foothills of the Shenandoah Valley. The Vineyard operates on two acres of a sloping mountainside with high quality clay-based soil................................................................ ",
     image: "https://i.imgur.com/Rd7jJDR.jpg",
     imageText: "Image Text",
   },
@@ -52,8 +52,8 @@ const contactUs = [
     title: "Contact Us",
     date: "",
     description:
-      "If you would like to get in contact, either for feedback or to join our wine club, please fill out the form below. ",
-    image: "",
+      "If you would like to get in contact, either for feedback or to join our wine club, please fill out the form below. DONT FORGET TO ADD FORM ",
+    image: "https://i.imgur.com/hzxOS7l.png",
     imageText: "Image Text",
   },
 ];

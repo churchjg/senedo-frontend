@@ -20,6 +20,7 @@
     "react-scripts": "4.0.1",
     "startbootstrap-scrolling-nav": "^4.2.3",
     "startbootstrap-shop-homepage": "^4.2.3",
+    "startbootstrap-shop-item": "^4.2.3",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
